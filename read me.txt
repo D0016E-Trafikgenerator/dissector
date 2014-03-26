@@ -1,0 +1,5 @@
+Bitstring.dll och init.lua i wiresharkfoldern
+
+Coapdissector.lua i wireshark/plugins
+
+this version probably only works with 32 bit OS
